@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article class="page page-about">
+  <section class="about-profile" role="banner">
+    <div class="about-profile__media">
+      <img src="/images/about-portrait.jpg" alt="Manuel Martín Salvador" class="about-profile__photo">
+    </div>
+
+    <div class="about-profile__content">
+      {{ if eq .Lang "es" }}
+        <p class="about-profile__eyebrow">Sobre mí</p>
+        <h1 class="about-profile__title">Manuel Martín Salvador</h1>
+        <p class="about-profile__subtitle">Investigador en IA e ingeniero informático. Me gusta construir sistemas útiles: rigor, claridad y colaboración.</p>
+        <p class="about-profile__location">📍 Granada, España · trabajo en remoto</p>
+        <div class="about-profile__cta">
+          <a href="{{ .Site.Params.linkedin }}" class="btn btn-linkedin" target="_blank" rel="noopener">Conectar en LinkedIn</a>
+        </div>
+      {{ else }}
+        <p class="about-profile__eyebrow">About</p>
+        <h1 class="about-profile__title">Manuel Martín Salvador</h1>
+        <p class="about-profile__subtitle">AI researcher and software engineer. I like building useful systems—rigor, clarity, and collaboration.</p>
+        <p class="about-profile__location">📍 Granada, Spain · working remotely</p>
+        <div class="about-profile__cta">
+          <a href="{{ .Site.Params.linkedin }}" class="btn btn-linkedin" target="_blank" rel="noopener">Connect on LinkedIn</a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

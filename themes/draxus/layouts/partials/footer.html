@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-social">
+        <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn">LinkedIn</a>
+        <a href="{{ .Site.Params.github }}" target="_blank" rel="noopener" aria-label="GitHub">GitHub</a>
+        <a href="{{ .Site.Params.scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar">Scholar</a>
+        <a href="{{ .Site.Params.mastodon }}" target="_blank" rel="me noopener" aria-label="Mastodon">Mastodon</a>
+      </div>
+      <p class="footer-copyright">
+        &copy; {{ now.Year }} Manuel Martín Salvador
+      </p>
+    </div>
+  </div>
+</footer>
+
+<script>
+document.querySelector('.nav-toggle').addEventListener('click', function() {
+  const menu = document.querySelector('.nav-menu');
+  const expanded = this.getAttribute('aria-expanded') === 'true';
+  this.setAttribute('aria-expanded', !expanded);
+  menu.classList.toggle('is-open');
+});
+</script>

@@ -1,0 +1,45 @@
+{{ define "main" }}
+<article class="page page-talks">
+  <section class="talks-hero" role="banner">
+    <div class="talks-hero__inner">
+      {{ if eq .Lang "es" }}
+        <p class="talks-hero__eyebrow">Ponente</p>
+        <h1 class="talks-hero__title">Charlas y talleres</h1>
+        <p class="talks-hero__subtitle">Machine learning y visión por computador, con enfoque práctico: claridad, rigor y aplicación real.</p>
+        <p class="talks-hero__topics">Temas habituales: IA centrada en datos, evaluación de modelos, MLOps y visión por computador en producción.</p>
+        <div class="talks-hero__badges" aria-label="Formatos disponibles">
+          <span class="talks-hero__badge">Keynote</span>
+          <span class="talks-hero__badge">Taller</span>
+          <span class="talks-hero__badge">Formación interna</span>
+          <span class="talks-hero__badge">ES/EN</span>
+          <span class="talks-hero__badge">Remoto o presencial</span>
+        </div>
+        <div class="talks-hero__cta">
+          <a href="{{ "/contact/" | relLangURL }}" class="btn btn-primary">Invítame a participar</a>
+        </div>
+      {{ else }}
+        <p class="talks-hero__eyebrow">Speaker</p>
+        <h1 class="talks-hero__title">Talks &amp; Workshops</h1>
+        <p class="talks-hero__subtitle">Practical machine learning and computer vision—clear, rigorous, and grounded in real delivery.</p>
+        <p class="talks-hero__topics">Typical themes: data-centric AI, model evaluation, MLOps, and computer vision in production.</p>
+        <div class="talks-hero__badges" aria-label="Available formats">
+          <span class="talks-hero__badge">Keynote</span>
+          <span class="talks-hero__badge">Workshop</span>
+          <span class="talks-hero__badge">Internal training</span>
+          <span class="talks-hero__badge">EN/ES</span>
+          <span class="talks-hero__badge">Remote or in-person</span>
+        </div>
+        <div class="talks-hero__cta">
+          <a href="{{ "/contact/" | relLangURL }}" class="btn btn-primary">Invite me to speak</a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <div class="content-narrow">
+    <div class="page-content">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,10 @@
+name = "draxus"
+license = "MIT"
+licenselink = "https://github.com/draxus/draxus.github.io/blob/main/LICENSE"
+description = "Minimal personal website theme"
+homepage = "https://draxus.org"
+min_version = "0.100.0"
+
+[author]
+  name = "Manuel Martín Salvador"
+  homepage = "https://draxus.org"

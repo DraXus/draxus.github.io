@@ -1,0 +1,45 @@
+{{ define "main" }}
+<article class="page page-communities">
+  <section class="communities-hero" role="banner">
+    <div class="communities-hero__inner">
+      {{ if eq .Lang "es" }}
+        <p class="communities-hero__eyebrow">Comunidades</p>
+        <h1 class="communities-hero__title">Conectar personas, fortalecer el ecosistema</h1>
+        <p class="communities-hero__subtitle">Las comunidades fuertes nos mejoran como sociedad y ayudan al tejido empresarial.</p>
+        <p class="communities-hero__topics">Si quieres impulsar las buenas prácticas en IA y datos en tu empresa o institución, puedo ayudarte a organizar un evento PyData.</p>
+        <div class="communities-hero__badges" aria-label="Enfoque">
+          <span class="communities-hero__badge">Meetups</span>
+          <span class="communities-hero__badge">Charlas</span>
+          <span class="communities-hero__badge">Empresas</span>
+          <span class="communities-hero__badge">Instituciones</span>
+          <span class="communities-hero__badge">Networking</span>
+        </div>
+        <div class="communities-hero__cta">
+          <a href="{{ "/contact/" | relLangURL }}" class="btn btn-primary">Quiero organizar un encuentro PyData</a>
+        </div>
+      {{ else }}
+        <p class="communities-hero__eyebrow">Communities</p>
+        <h1 class="communities-hero__title">Communities grow the local ecosystem</h1>
+        <p class="communities-hero__subtitle">Strong communities strengthen society and support the wider business landscape.</p>
+        <p class="communities-hero__topics">If you want to promote good practices in AI and data within your company or institution, I can help you organise a PyData event.</p>
+        <div class="communities-hero__badges" aria-label="Focus">
+          <span class="communities-hero__badge">Meetups</span>
+          <span class="communities-hero__badge">Talks</span>
+          <span class="communities-hero__badge">Companies</span>
+          <span class="communities-hero__badge">Institutions</span>
+          <span class="communities-hero__badge">Connecting people</span>
+        </div>
+        <div class="communities-hero__cta">
+          <a href="{{ "/contact/" | relLangURL }}" class="btn btn-primary">Contact me to organize a PyData event</a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <div class="content-narrow">
+    <div class="page-content">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,99 @@
+baseURL = "https://draxus.org/"
+title = "Manuel Martín Salvador"
+theme = "draxus"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+  [languages.es]
+    languageCode = "es"
+    languageName = "ES"
+    weight = 1
+    title = "Manuel Martín Salvador - Investigador IA e Ingeniero"
+    [languages.es.params]
+      description = "Ingeniero de machine learning especializado en visión por computador. Consultoría en sistemas de IA, desde investigación hasta producción."
+    [[languages.es.menus.main]]
+      name = "Inicio"
+      pageRef = "/"
+      weight = 1
+    [[languages.es.menus.main]]
+      name = "Sobre mí"
+      pageRef = "/about"
+      weight = 2
+    [[languages.es.menus.main]]
+      name = "Servicios"
+      pageRef = "/services"
+      weight = 3
+    [[languages.es.menus.main]]
+      name = "Charlas"
+      pageRef = "/talks"
+      weight = 4
+    [[languages.es.menus.main]]
+      name = "Publicaciones"
+      pageRef = "/publications"
+      weight = 5
+    [[languages.es.menus.main]]
+      name = "Comunidades"
+      pageRef = "/communities"
+      weight = 6
+    [[languages.es.menus.main]]
+      name = "Contacto"
+      pageRef = "/contact"
+      weight = 7
+
+  [languages.en]
+    languageCode = "en"
+    languageName = "EN"
+    weight = 2
+    title = "Manuel Martín Salvador - AI Researcher & Engineer"
+    [languages.en.params]
+      description = "Research-driven ML engineer specializing in computer vision. Consulting for AI systems, from research to production."
+    [[languages.en.menus.main]]
+      name = "Home"
+      pageRef = "/"
+      weight = 1
+    [[languages.en.menus.main]]
+      name = "About"
+      pageRef = "/about"
+      weight = 2
+    [[languages.en.menus.main]]
+      name = "Services"
+      pageRef = "/services"
+      weight = 3
+    [[languages.en.menus.main]]
+      name = "Talks"
+      pageRef = "/talks"
+      weight = 4
+    [[languages.en.menus.main]]
+      name = "Publications"
+      pageRef = "/publications"
+      weight = 5
+    [[languages.en.menus.main]]
+      name = "Communities"
+      pageRef = "/communities"
+      weight = 6
+    [[languages.en.menus.main]]
+      name = "Contact"
+      pageRef = "/contact"
+      weight = 7
+
+[params]
+  author = "Manuel Martín Salvador"
+  email = "draxus@gmail.com"
+  linkedin = "https://www.linkedin.com/in/draxus/"
+  github = "https://github.com/draxus"
+  scholar = "https://scholar.google.co.uk/citations?user=ofVKlL0AAAAJ&hl=en"
+  mastodon = "https://mastodon.social/@draxus"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5

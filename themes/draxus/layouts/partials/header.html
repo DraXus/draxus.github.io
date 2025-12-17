@@ -1,0 +1,39 @@
+<header class="site-header">
+  <div class="container header-container">
+    <a href="{{ .Site.Home.RelPermalink }}" class="site-logo">
+      <span class="logo-name">Manuel Martín Salvador</span>
+    </a>
+    
+    <nav class="site-nav">
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-menu">
+        {{ range .Site.Menus.main }}
+        <li>
+          {{ if eq .Name "Contact" "Contacto" }}
+          <a href="{{ .URL }}" class="btn btn-nav">{{ .Name }}</a>
+          {{ else }}
+          <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a>
+          {{ end }}
+        </li>
+        {{ end }}
+        <li class="lang-toggle">
+          {{ if .IsTranslated }}
+            {{ range .Translations }}
+            <a href="{{ .Permalink }}" class="lang-link">{{ .Language.LanguageName }}</a>
+            {{ end }}
+          {{ else }}
+            {{ range .Site.Languages }}
+              {{ if ne $.Lang .Lang }}
+              <a href="{{ .Lang | relLangURL }}" class="lang-link">{{ .LanguageName }}</a>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
