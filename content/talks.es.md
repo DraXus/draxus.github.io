@@ -9,10 +9,10 @@ Charlas, talleres y apariciones seleccionadas. Hablo regularmente sobre machine 
 
 <div class="talk-item">
 <div class="talk-thumbnail">
-<a href="/talks/aibirras-2025-data-augmentation.pdf" target="_blank"><img src="/images/photo-placeholder.svg" alt="Data augmentation: El secreto para enseñar a la IA a ver mejor"></a>
+<img src="/images/talks/aibirras-2025-data-augmentation-slide1.png" alt="Data augmentation: El secreto para enseñar a la IA a ver mejor">
 </div>
 <div class="talk-info">
-<strong><a href="/talks/aibirras-2025-data-augmentation.pdf" target="_blank">Data augmentation: El secreto para enseñar a la IA a ver mejor</a></strong>
+<strong>Data augmentation: El secreto para enseñar a la IA a ver mejor</strong>
 <span class="item-venue">AIBirras</span><br>
 <span class="item-date">2025</span>
 </div>
@@ -20,10 +20,10 @@ Charlas, talleres y apariciones seleccionadas. Hablo regularmente sobre machine 
 
 <div class="talk-item">
 <div class="talk-thumbnail">
-<a href="https://docs.google.com/presentation/d/1LbpItAnjwlgRPTPAdUziEEXD7_dkddT7ZF2YpExhsao/" target="_blank"><img src="/images/photo-placeholder.svg" alt="¿Puede la IA ayudar a reducir los accidentes de tráfico?"></a>
+<img src="/images/talks/databeers-2023-road-accidents-slide1.png" alt="¿Puede la IA ayudar a reducir los accidentes de tráfico?">
 </div>
 <div class="talk-info">
-<strong><a href="https://docs.google.com/presentation/d/1LbpItAnjwlgRPTPAdUziEEXD7_dkddT7ZF2YpExhsao/" target="_blank">¿Puede la IA ayudar a reducir los accidentes de tráfico?</a></strong>
+<strong>¿Puede la IA ayudar a reducir los accidentes de tráfico?</strong>
 <span class="item-venue">I Congreso Inteligencia Artificial de Andalucía</span><br>
 <span class="item-date">2023</span>
 </div>
@@ -42,10 +42,10 @@ Charlas, talleres y apariciones seleccionadas. Hablo regularmente sobre machine 
 
 <div class="talk-item">
 <div class="talk-thumbnail">
-<a href="https://www.slideshare.net/draxus/automating-machine-learning-is-it-feasible" target="_blank"><img src="https://cdn.slidesharecdn.com/ss_thumbnails/automatingmachinelearning-isitfeasible-160623143753-thumbnail.jpg" alt="Adapting Multicomponent Predictive Systems"></a>
+<img src="/images/talks/icml-2016-hybrid-adaptation-auto-weka-slide1.png" alt="Adapting Multicomponent Predictive Systems">
 </div>
 <div class="talk-info">
-<strong><a href="https://www.slideshare.net/draxus/automating-machine-learning-is-it-feasible" target="_blank">Adapting Multicomponent Predictive Systems using Hybrid Adaptation with Auto-WEKA in Process Industry</a></strong>
+<strong>Adapting Multicomponent Predictive Systems using Hybrid Adaptation with Auto-WEKA in Process Industry</strong>
 <span class="item-venue">ICML, USA</span><br>
 <span class="item-date">2016</span>
 </div>

@@ -7,6 +7,10 @@
         <a href="{{ .Site.Params.scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar">Scholar</a>
         <a href="{{ .Site.Params.mastodon }}" target="_blank" rel="me noopener" aria-label="Mastodon">Mastodon</a>
       </div>
+      <div class="footer-legal">
+        <a href="{{ "privacy/" | relLangURL }}">{{ if eq .Lang "es" }}Política de privacidad{{ else }}Privacy Policy{{ end }}</a>
+        <a href="{{ "cookies/" | relLangURL }}">{{ if eq .Lang "es" }}Política de cookies{{ else }}Cookie Policy{{ end }}</a>
+      </div>
       <p class="footer-copyright">
         &copy; {{ now.Year }} Manuel Martín Salvador
       </p>

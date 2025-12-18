@@ -986,6 +986,20 @@ main.container.container--wide {
   color: var(--color-accent);
 }
 
+.footer-legal {
+  display: flex;
+  gap: var(--spacing-md);
+}
+
+.footer-legal a {
+  color: var(--color-text-secondary);
+  font-size: 0.875rem;
+}
+
+.footer-legal a:hover {
+  color: var(--color-accent);
+}
+
 .footer-copyright {
   color: var(--color-text-secondary);
   font-size: 0.875rem;
