@@ -11,20 +11,20 @@ I hold a PhD in Machine Learning from Bournemouth University and a Master's in S
 
 ## Current Work
 
-At [Blink](https://blinkeye.com), I develop deep learning systems for face detection, monocular 3D eye estimation, and others. This work demands precision at every stage: data collection, model architecture, evaluation metrics, and deployment optimization.
+At [Blink](https://blinkeye.com), I develop **deep learning** systems for solving **computer vision** challenges such as face detection, monocular 3D eye estimation and hand tracking. This work demands precision at every stage: data collection, model architecture, evaluation metrics, and deployment optimization.
 
 ## Working Style
 
-I'm a researcher by training and an engineer by practice. I value clarity over cleverness, reproducibility over novelty, and solutions that have a real impact. My experience spans the full AI lifecycle: from designing experiments, writing code to model deployment.
+I lie in the intersection between research and software engineering. I value **clarity** over cleverness, **reproducibility** over novelty, and solutions that have a **real impact**. My experience spans the full AI lifecycle: from designing experiments, writing code to model deployment.
 
-I've worked remotely for international teams for over 7 years. I communicate proactively, detect problems early, and deliver on commitments. I'm comfortable discussing machine learning foundations with researchers as well as communicating with final clients.
+I've worked remotely for **international** teams for over 7 years. I communicate proactively, detect problems early, and deliver on commitments. I'm comfortable discussing machine learning foundations with researchers as well as communicating with final clients.
 
 ## Education
 
-- **2017** — PhD in Machine Learning, Bournemouth University
-- **2011** — Master in Soft Computing and Intelligent Systems, University of Granada
-- **2009** — MSc Computer Engineering, University of Granada
-- **2007** — BSc Technical Engineering in Computer Systems, University of Granada
+- **2017** — **PhD** in Machine Learning, Bournemouth University
+- **2011** — **Master** in Soft Computing and Intelligent Systems, University of Granada
+- **2009** — **MSc Computer Engineering**, University of Granada
+- **2007** — **BSc Technical Engineering** in Computer Systems, University of Granada
 
 ## Awards & Recognition
 

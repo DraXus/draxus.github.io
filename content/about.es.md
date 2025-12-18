@@ -11,20 +11,20 @@ Doctorado en Machine Learning por Bournemouth University y Máster Soft Computin
 
 ## Trabajo Actual
 
-En [Blink](https://blinkeye.com) desarrollo sistemas de deep learning para detección facial, estimación 3D ocular, entre otros. Este trabajo exige precisión en cada etapa: recolección de datos, arquitectura de modelos, métricas de evaluación y optimización en el despliegue.
+En [Blink](https://blinkeye.com) desarrollo sistemas de deep learning para problemas de visión artificiales tales como la detección facial, estimación 3D ocular, y seguimiento de manos. Este trabajo exige precisión en cada etapa: recolección de datos, arquitectura de modelos, métricas de evaluación y optimización en el despliegue.
 
 ## Forma de Trabajar
 
-Soy investigador de formación e ingeniero en la práctica. Valoro la claridad sobre la complejidad, la reproducibilidad sobre la novedad, y las soluciones que aportan valor. Mi experiencia abarca todo el ciclo de vida de la IA: desde diseñar experimentos, escribir código hasta desplegar en producción.
+Me muevo en la intersección entre la investigación y la ingeniería de software. Valoro la **claridad** sobre la complejidad, la **reproducibilidad** sobre la novedad, y las soluciones que **aportan valor**. Mi experiencia abarca todo el ciclo de vida de la IA: desde diseñar experimentos, escribir código hasta desplegar en producción.
 
-Llevo trabajando en remoto más de 7 años para equipos internacionales. Me comunico de forma proactiva, detecto problemas temprano y cumplo compromisos. Me desenvuelvo discutiendo fundamentos de machine learning con investigadores así como comunicando a clientes finales.
+Llevo trabajando en remoto más de 7 años para equipos **internacionales**. Me comunico de forma proactiva, detecto problemas temprano y cumplo compromisos. Me desenvuelvo discutiendo fundamentos de machine learning con investigadores así como comunicando a clientes finales.
 
 ## Formación Académica
 
-- **2017** — Doctorado en Machine Learning, Bournemouth University
-- **2011** — Máster en Soft Computing y Sistemas Inteligentes, Universidad de Granada
-- **2009** — Ingeniería Informática, Universidad de Granada
-- **2007** — Ingeniería Técnica en Informática de Sistemas, Universidad de Granada
+- **2017** — **Doctorado** en Machine Learning, Bournemouth University
+- **2011** — **Máster** en Soft Computing y Sistemas Inteligentes, Universidad de Granada
+- **2009** — **Ingeniería Informática**, Universidad de Granada
+- **2007** — **Ingeniería Técnica** en Informática de Sistemas, Universidad de Granada
 
 ## Premios y Reconocimientos
 

@@ -1,32 +1,18 @@
 ---
-title: "Contacto"
+title: "¿Quieres que colaboremos?"
 description: "Contacta conmigo para consultoría y colaboración."
 ---
 
-¿Te interesa trabajar conmigo? Estoy disponible para proyectos de consultoría, colaboraciones de investigación y roles de asesoría.
+Si quieres que hablemos y veamos juntos en qué te puedo ayudar, aquí tienes tres formas para que lo hagas como te resulte más cómodo:
 
-<div class="contact-info">
+**Envíame un e-mail** y te responderé lo antes posible.
 
-**Email:** [draxus@gmail.com](mailto:draxus@gmail.com)
+<a class="btn btn-primary" href="mailto:manuel@draxus.org">Enviar un e-mail</a>
 
-**LinkedIn:** [linkedin.com/in/draxus](https://www.linkedin.com/in/draxus/)
+**Conecta conmigo en LinkedIn** (es la forma más fácil de estar en contacto).
 
-**GitHub:** [github.com/draxus](https://github.com/draxus)
+<a class="btn btn-primary" href="https://www.linkedin.com/in/draxus/" target="_blank" rel="noopener">Conectar en LinkedIn</a>
 
-**Mastodon:** [@draxus@mastodon.social](https://mastodon.social/@draxus)
+**Agenda una llamada de 30 min** y vemos tu necesidad en persona.
 
-</div>
-
-## Sobre qué puedo ayudarte
-
-- Consultoría en visión por computador e IA
-- Colaboración en investigación y proyectos académicos
-- Diseño y evaluación de sistemas de machine learning
-- Asesoría técnica para proyectos de IA
-- Charlas y formación
-
-<div class="contact-cta">
-
-Respondo a todos los mensajes en un plazo de 48 horas laborables.
-
-</div>
+<button type="button" class="btn btn-primary" data-cal-link="draxus/30min" data-cal-namespace="30min" data-cal-config='{"layout":"month_view"}'>Agendar una llamada</button>

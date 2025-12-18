@@ -236,10 +236,21 @@ main.container.container--wide {
   border-radius: 6px;
   text-decoration: none;
   cursor: pointer;
+  border: none;
+  font-family: inherit;
 }
 
 .btn:hover {
   text-decoration: none;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:focus-visible {
+  outline: 3px solid var(--color-accent-hover);
+  outline-offset: 2px;
 }
 
 .btn-primary {

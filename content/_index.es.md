@@ -4,7 +4,7 @@ description: "Ingeniero de machine learning especializado en visión por computa
 hero_title: "Investigador en IA e Ingeniero Informático"
 hero_tagline: "Transformo investigación académica en sistemas de IA en producción que resuelven problemas reales."
 hero_current: "Trabajo desde Granada (España) para cualquier parte del mundo."
-hero_photo: "/images/photo-placeholder.svg"
+hero_photo: "/images/me-2020-06-07-square.png"
 cta_text: "Contactar"
 cta_link: "/contact/"
 ---

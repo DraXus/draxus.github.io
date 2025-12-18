@@ -1,32 +1,18 @@
 ---
-title: "Contact"
+title: "Want to collaborate?"
 description: "Get in touch for consulting and collaboration."
 ---
 
-Interested in working together? I'm available for consulting projects, research collaborations, and advisory roles.
+If you want to chat about a project and see how I can help, choose the option that’s most convenient for you:
 
-<div class="contact-info">
+**Send me an email** and I’ll get back to you as soon as I can.
 
-**Email:** [draxus@gmail.com](mailto:draxus@gmail.com)
+<a class="btn btn-primary" href="mailto:manuel@draxus.org">Send email</a>
 
-**LinkedIn:** [linkedin.com/in/draxus](https://www.linkedin.com/in/draxus/)
+**Connect on LinkedIn** (it’s the easiest way to keep in touch).
 
-**GitHub:** [github.com/draxus](https://github.com/draxus)
+<a class="btn btn-primary" href="https://www.linkedin.com/in/draxus/" target="_blank" rel="noopener">Connect on LinkedIn</a>
 
-**Mastodon:** [@draxus@mastodon.social](https://mastodon.social/@draxus)
+**Book a 30 min call** and we’ll talk through your needs.
 
-</div>
-
-## How I Can Help
-
-- Computer vision & AI consulting
-- Research collaboration and academic projects
-- Machine learning system design and evaluation
-- Technical advisory for AI projects
-- Talks and training
-
-<div class="contact-cta">
-
-I respond to all messages within 48 business hours.
-
-</div>
+<button type="button" class="btn btn-primary" data-cal-link="draxus/30min" data-cal-namespace="30min" data-cal-config='{"layout":"month_view"}'>Book a 30 min call</button>
