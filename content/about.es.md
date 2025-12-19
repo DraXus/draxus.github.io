@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-description: "Doctorado en ML, más de 15 años en IA. Formación, foco y trabajo serio."
+description: "Doctorado en ML, más de 15 años de experiencia. Formación y forma de trabajar."
 layout: "about"
 mainClass: "container--wide"
 ---
@@ -11,11 +11,11 @@ Doctorado en Machine Learning por Bournemouth University y Máster Soft Computin
 
 ## Trabajo Actual
 
-En [Blink](https://blinkeye.com) desarrollo sistemas de deep learning para problemas de visión artificiales tales como la detección facial, estimación 3D ocular, y seguimiento de manos. Este trabajo exige precisión en cada etapa: recolección de datos, arquitectura de modelos, métricas de evaluación y optimización en el despliegue.
+Trabajo a tiempo parcial en [Blink](https://blinkeye.com), donde desarrollo sistemas de deep learning para problemas de visión artificiales tales como la detección facial, estimación 3D ocular, y seguimiento de manos. Este trabajo exige precisión en cada etapa: recolección de datos, arquitectura de modelos, métricas de evaluación y optimización en el despliegue.
 
 ## Forma de Trabajar
 
-Me muevo en la intersección entre la investigación y la ingeniería de software. Valoro la **claridad** sobre la complejidad, la **reproducibilidad** sobre la novedad, y las soluciones que **aportan valor**. Mi experiencia abarca todo el ciclo de vida de la IA: desde diseñar experimentos, escribir código hasta desplegar en producción.
+Me muevo en la intersección entre la investigación y la ingeniería de software. Valoro la **claridad** sobre la complejidad, la **fiabilidad** sobre la novedad, y las soluciones que **aportan valor**. Mi experiencia abarca todo el ciclo de vida de la IA: desde diseñar experimentos, escribir código hasta desplegar en producción.
 
 Llevo trabajando en remoto más de 7 años para equipos **internacionales**. Me comunico de forma proactiva, detecto problemas temprano y cumplo compromisos. Me desenvuelvo discutiendo fundamentos de machine learning con investigadores así como comunicando a clientes finales.
 

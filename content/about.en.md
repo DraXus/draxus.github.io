@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "PhD in ML, 15+ years in AI. Background, approach, and working style."
+description: "PhD in ML, 15+ years experience. Background and working style."
 layout: "about"
 mainClass: "container--wide"
 ---
@@ -11,11 +11,11 @@ I hold a PhD in Machine Learning from Bournemouth University and a Master's in S
 
 ## Current Work
 
-At [Blink](https://blinkeye.com), I develop **deep learning** systems for solving **computer vision** challenges such as face detection, monocular 3D eye estimation and hand tracking. This work demands precision at every stage: data collection, model architecture, evaluation metrics, and deployment optimization.
+I work part-time at [Blink](https://blinkeye.com), where I develop **deep learning** systems for solving **computer vision** challenges such as face detection, monocular 3D eye estimation and hand tracking. This work demands precision at every stage: data collection, model architecture, evaluation metrics, and deployment optimization.
 
 ## Working Style
 
-I lie in the intersection between research and software engineering. I value **clarity** over cleverness, **reproducibility** over novelty, and solutions that have a **real impact**. My experience spans the full AI lifecycle: from designing experiments, writing code to model deployment.
+I lie in the intersection between research and software engineering. I value **clarity** over cleverness, **reliability** over novelty, and solutions that have a **real impact**. My experience spans the full AI lifecycle: from designing experiments, writing code to model deployment.
 
 I've worked remotely for **international** teams for over 7 years. I communicate proactively, detect problems early, and deliver on commitments. I'm comfortable discussing machine learning foundations with researchers as well as communicating with final clients.
 
