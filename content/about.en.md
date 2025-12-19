@@ -19,6 +19,10 @@ I lie in the intersection between research and software engineering. I value **c
 
 I've worked remotely for **international** teams for over 7 years. I communicate proactively, detect problems early, and deliver on commitments. I'm comfortable discussing machine learning foundations with researchers as well as communicating with final clients.
 
+## Professional Accreditation
+
+I am a member of [CPITIA](https://www.cpitia.org) (Professional Association of Technical Engineers in Computer Science of Andalusia) with membership number **20250131-A**. I follow a [code of ethics](https://www.cpitia.org/wp-content/uploads/2017/03/Deontolog%C3%ADa-CPITIA.pdf) that ensures ethical and responsible professional practice. Additionally, I hold **Professional Liability Insurance** to protect my clients.
+
 ## Education
 
 - **2017** — **PhD** in Machine Learning, Bournemouth University

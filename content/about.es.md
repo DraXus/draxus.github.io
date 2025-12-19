@@ -19,6 +19,10 @@ Me muevo en la intersección entre la investigación y la ingeniería de softwar
 
 Llevo trabajando en remoto más de 7 años para equipos **internacionales**. Me comunico de forma proactiva, detecto problemas temprano y cumplo compromisos. Me desenvuelvo discutiendo fundamentos de machine learning con investigadores así como comunicando a clientes finales.
 
+## Colegiación Profesional
+
+Estoy colegiado en el [CPITIA](https://www.cpitia.org) (Colegio Profesional de Ingenieros Técnicos en Informática de Andalucía) con el número **20250131-A**. Sigo un [código deontológico](https://www.cpitia.org/wp-content/uploads/2017/03/Deontolog%C3%ADa-CPITIA.pdf) que garantiza el ejercicio ético y responsable de la profesión. Además, cuento con un **Seguro de Responsabilidad Civil Profesional** que protege a mis clientes.
+
 ## Formación Académica
 
 - **2017** — **Doctorado** en Machine Learning, Bournemouth University
