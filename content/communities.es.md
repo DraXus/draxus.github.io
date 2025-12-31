@@ -22,7 +22,7 @@ Creo en construir el ecosistema, no solo participar en él. Participo activament
 <div class="community-logo"><img src="/images/logo-granada-tech.svg" alt="Granada Tech"></div>
 <div class="community-info">
 <h3>Granada Tech</h3>
-<p>Granada Tech somos un conjunto de asociaciones, grupos y entidades que organizamos eventos tecnológicos en la provincia de Granada. Tenemos un calendario común de eventos relacionados con programación, informática, inteligencia artificial, software libre, ciberseguridad, videojuegos y más temas.</p>
+<p>Granada Tech es un conjunto de asociaciones, grupos y entidades que organizan eventos tecnológicos en la provincia de Granada. Tenemos un calendario común de eventos relacionados con programación, informática, inteligencia artificial, software libre, ciberseguridad, videojuegos y más temas.</p>
 <a href="https://www.granadatech.org" target="_blank">Más información</a>
 </div>
 </div>

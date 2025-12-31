@@ -46,7 +46,7 @@ Charlas, talleres y apariciones seleccionadas. Hablo regularmente sobre machine 
 </div>
 <div class="talk-info">
 <strong>Adapting Multicomponent Predictive Systems using Hybrid Adaptation with Auto-WEKA in Process Industry</strong>
-<span class="item-venue">ICML, USA</span><br>
+<span class="item-venue">ICML, EE. UU.</span><br>
 <span class="item-date">2016</span>
 </div>
 </div>
@@ -57,7 +57,7 @@ Charlas, talleres y apariciones seleccionadas. Hablo regularmente sobre machine 
 </div>
 <div class="talk-info">
 <strong><a href="https://www.slideshare.net/slideshow/effects-of-change-propagation-resulting-from-adaptive-preprocessing-in-multicomponent-predictive-systems/65778348" target="_blank">Effects of change propagation resulting from adaptive preprocessing in multicomponent predictive systems</a></strong>
-<span class="item-venue">KES, UK</span><br>
+<span class="item-venue">KES, Reino Unido</span><br>
 <span class="item-date">2016</span>
 </div>
 </div>
@@ -88,4 +88,4 @@ Charlas, talleres y apariciones seleccionadas. Hablo regularmente sobre machine 
 
 Las diapositivas de algunas de mis presentaciones están disponibles en mi [perfil de SlideShare](https://www.slideshare.net/draxus).
 
-¿Te interesa una charla o taller para tu evento o tu equipo? Escríbeme desde la [página de contacto](../contact/).
+¿Te interesa una charla o taller para tu evento o tu equipo? Escríbeme a través de la [página de contacto](../contact/).

@@ -16,15 +16,15 @@ Este sitio web es principalmente informativo. Los datos personales solo se recog
 En concreto, puede ocurrir en estos casos:
 
 - **Contacto por e-mail**: si envías un correo, se tratarán los datos que incluyas (p. ej. tu dirección de correo y el contenido del mensaje).
-- **Reserva de una llamada (Cal.com)**: si utilizas el botón para agendar una llamada en la página de contacto, se carga un servicio de terceros (Cal.com) para mostrar el calendario y gestionar la reserva.
+- **Reserva de una llamada (Cal.com)**: si utilizas el botón para reservar una llamada en la página de contacto, se carga un servicio de terceros (Cal.com) para mostrar el calendario y gestionar la reserva.
 
-Además, como en la mayoría de sitios web, los proveedores de infraestructura pueden procesar **datos técnicos** (p. ej. dirección IP, user-agent, fecha/hora y logs de acceso) con fines de seguridad, mantenimiento y entrega del contenido.
+Además, como en la mayoría de sitios web, los proveedores de infraestructura pueden procesar **datos técnicos** (p. ej. dirección IP, agente de usuario, fecha/hora y logs de acceso) con fines de seguridad, mantenimiento y entrega del contenido.
 
 ## Finalidades
 Los datos se tratan con las siguientes finalidades:
 
 - **Responder a solicitudes** realizadas por ti (por e-mail o a través de una reserva de llamada).
-- **Prestar el servicio solicitado** (p. ej. agendar una llamada).
+- **Prestar el servicio solicitado** (p. ej. reservar una llamada).
 - **Seguridad y funcionamiento** del sitio (prevención de abusos, mitigación de errores, etc.).
 
 ## Base jurídica
@@ -38,7 +38,7 @@ Para prestar el servicio, este sitio utiliza proveedores de terceros:
 
 - **GitHub Pages** (hosting y distribución de contenido).
 - **Google Fonts** (carga de tipografías desde dominios de Google). En las comprobaciones realizadas para este sitio, Google Fonts no establecía cookies, pero implica solicitudes a dominios de terceros.
-- **Cal.com** (solo cuando interactúas con el calendario de reserva). Cal.com puede utilizar cookies propias de su dominio para operar el widget.
+- **Cal.com** (solo cuando interactúas con el calendario de reserva). Cal.com puede utilizar cookies propias de su dominio para prestar el servicio.
 
 Este sitio también incluye enlaces a redes/servicios externos (p. ej. LinkedIn, GitHub, Scholar, Mastodon). Al abrirlos, aplican sus propias políticas.
 

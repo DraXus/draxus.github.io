@@ -7,7 +7,9 @@ mainClass: "container--wide"
 
 Publicaciones revisadas por pares en machine learning e inteligencia artificial. Para una lista completa y actualizada, consulta mi [perfil de Google Scholar](https://scholar.google.co.uk/citations?user=ofVKlL0AAAAJ&hl=en).
 
-## Publicaciones Seleccionadas
+## Publicaciones seleccionadas
+
+<p class="publications-note"><em>Los títulos aparecen en inglés porque es el idioma de publicación en revistas científicas internacionales.</em></p>
 
 <ul class="item-list">
 
@@ -122,4 +124,4 @@ Publicaciones revisadas por pares en machine learning e inteligencia artificial.
 
 Ver lista completa en [Google Scholar](https://scholar.google.co.uk/citations?user=ofVKlL0AAAAJ&hl=en).
 
-¿Te interesa una colaboración de investigación? Escríbeme desde la [página de contacto](../contact/).
+¿Te interesa una colaboración de investigación? Escríbeme a través de la [página de contacto](../contact/).

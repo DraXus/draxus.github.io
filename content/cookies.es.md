@@ -12,7 +12,7 @@ Las cookies son pequeños archivos que un sitio web puede guardar en tu disposit
 Este sitio web **no utiliza cookies propias** para su funcionamiento básico.
 
 ### Servicios de terceros (pueden usar cookies)
-En la página de [contacto](/contact/), el botón **“Agendar una llamada”** carga un widget de **Cal.com**. Al abrir el calendario, Cal.com puede establecer cookies en su propio dominio (`.cal.com`) para operar el servicio.
+En la página de [contacto](/contact/), el botón **“Reservar una llamada”** carga un módulo de **Cal.com**. Al abrir el calendario, Cal.com puede establecer cookies en su propio dominio (`.cal.com`) para prestar el servicio.
 
 ## Cómo gestionar o eliminar cookies
 Puedes configurar tu navegador para:

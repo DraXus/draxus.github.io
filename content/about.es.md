@@ -7,17 +7,17 @@ mainClass: "container--wide"
 
 ## Formación
 
-Doctorado en Machine Learning por Bournemouth University y Máster Soft Computing y Sistemas Inteligentes por la Universidad de Granada. Mi investigación se centró en <i>AutoML</i>, <i>data-stream mining</i> y <i>adaptive learning</i>, siempre en la intersección entre teoría y aplicación real.
+Doctorado en machine learning por Bournemouth University y Máster en Soft Computing y Sistemas Inteligentes por la Universidad de Granada. Mi investigación se centró en <i>AutoML</i>, <i>data-stream mining</i> y <i>adaptive learning</i>, siempre en la intersección entre teoría y aplicación real.
 
-## Trabajo Actual
+## Trabajo actual
 
-Trabajo a tiempo parcial en [Blink](https://blinkeye.com), donde desarrollo sistemas de deep learning para problemas de visión artificiales tales como la detección facial, estimación 3D ocular, y seguimiento de manos. Este trabajo exige precisión en cada etapa: recolección de datos, arquitectura de modelos, métricas de evaluación y optimización en el despliegue.
+Trabajo a tiempo parcial en [Blink](https://blinkeye.com), donde desarrollo sistemas de deep learning para problemas de visión artificial tales como la detección facial, estimación 3D ocular, y seguimiento de manos. Este trabajo exige precisión en cada etapa: recolección de datos, arquitectura de modelos, métricas de evaluación y optimización en el despliegue.
 
-## Forma de Trabajar
+## Forma de trabajar
 
-Me muevo en la intersección entre la investigación y la ingeniería de software. Valoro la **claridad** sobre la complejidad, la **fiabilidad** sobre la novedad, y las soluciones que **aportan valor**. Mi experiencia abarca todo el ciclo de vida de la IA: desde diseñar experimentos, escribir código hasta desplegar en producción.
+Me muevo en la intersección entre la investigación y la ingeniería de software. Valoro la **claridad** sobre la complejidad, la **fiabilidad** sobre la novedad, y las soluciones que **aportan valor**. Mi experiencia abarca todo el ciclo de vida de la IA: desde diseñar experimentos y escribir código hasta desplegar en producción.
 
-Llevo trabajando en remoto más de 7 años para equipos **internacionales**. Me comunico de forma proactiva, detecto problemas temprano y cumplo compromisos. Me desenvuelvo discutiendo fundamentos de machine learning con investigadores así como comunicando a clientes finales.
+Llevo trabajando en remoto más de 7 años para equipos **internacionales**. Me comunico de forma proactiva, detecto problemas a tiempo y cumplo compromisos. Me muevo con soltura tanto en conversaciones técnicas con investigadores como en explicaciones para perfiles no técnicos.
 
 ## Colegiación Profesional
 
