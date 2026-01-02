@@ -40,7 +40,7 @@ Para prestar el servicio, este sitio utiliza proveedores de terceros:
 - **Google Fonts** (carga de tipografías desde dominios de Google). En las comprobaciones realizadas para este sitio, Google Fonts no establecía cookies, pero implica solicitudes a dominios de terceros.
 - **Cal.com** (solo cuando interactúas con el calendario de reserva). Cal.com puede utilizar cookies propias de su dominio para prestar el servicio.
 
-Este sitio también incluye enlaces a redes/servicios externos (p. ej. LinkedIn, GitHub, Scholar, Mastodon). Al abrirlos, aplican sus propias políticas.
+Este sitio también incluye enlaces a redes/servicios externos (p. ej. LinkedIn, GitHub, Scholar). Al abrirlos, aplican sus propias políticas.
 
 ## Conservación
 - **Correos y comunicaciones**: el tiempo necesario para gestionar la solicitud y mantener un histórico razonable de la relación profesional.

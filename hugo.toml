@@ -89,7 +89,6 @@ enableRobotsTXT = true
   linkedin = "https://www.linkedin.com/in/draxus/"
   github = "https://github.com/draxus"
   scholar = "https://scholar.google.co.uk/citations?user=ofVKlL0AAAAJ&hl=en"
-  mastodon = "https://mastodon.social/@draxus"
 
 [outputs]
   home = ["HTML", "RSS"]

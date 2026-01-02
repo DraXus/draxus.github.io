@@ -40,7 +40,7 @@ This website relies on third-party providers:
 - **Google Fonts** (fonts loaded from Google-owned domains). In the checks performed for this website, Google Fonts did not set cookies, but it does involve requests to third-party domains.
 - **Cal.com** (only when you interact with the booking widget). Cal.com may set cookies on its own domain to operate the widget.
 
-This website also links to external services (e.g., LinkedIn, GitHub, Scholar, Mastodon). When you visit them, their own policies apply.
+This website also links to external services (e.g., LinkedIn, GitHub, Scholar). When you visit them, their own policies apply.
 
 ## Retention
 - **Emails and communications**: for as long as needed to handle your request and keep a reasonable professional record.
