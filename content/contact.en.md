@@ -7,7 +7,7 @@ If you want to chat about a project and see how I can help, choose the option th
 
 **Send me an email** and I’ll get back to you as soon as I can.
 
-<a class="btn btn-primary" href="mailto:manuel@draxus.org">Send email</a>
+<a class="btn btn-primary" href="mailto:manuel@manuelmartinsalvador.es">Send email</a>
 
 **Connect on LinkedIn** (it’s the easiest way to keep in touch).
 

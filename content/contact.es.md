@@ -7,7 +7,7 @@ Cuéntame qué necesitas y vemos si encaja. Puedes contactarme de estas tres for
 
 **Envíame un correo** y te responderé lo antes posible.
 
-<a class="btn btn-primary" href="mailto:manuel@draxus.org">Enviar un correo</a>
+<a class="btn btn-primary" href="mailto:manuel@manuelmartinsalvador.es">Enviar un correo</a>
 
 **Conecta conmigo en LinkedIn** (es la forma más fácil de estar en contacto).
 
