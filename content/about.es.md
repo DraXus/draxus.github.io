@@ -19,18 +19,18 @@ Me muevo en la intersección entre la investigación y la ingeniería de softwar
 
 Llevo trabajando en remoto más de 7 años para equipos **internacionales**. Me comunico de forma proactiva, detecto problemas a tiempo y cumplo compromisos. Me muevo con soltura tanto en conversaciones técnicas con investigadores como en explicaciones para perfiles no técnicos.
 
-## Colegiación Profesional
+## Colegiación profesional
 
 Estoy colegiado en el [CPITIA](https://www.cpitia.org) (Colegio Profesional de Ingenieros Técnicos en Informática de Andalucía) con el número **20250131-A**. Sigo un [código deontológico](https://www.cpitia.org/wp-content/uploads/2017/03/Deontolog%C3%ADa-CPITIA.pdf) que garantiza el ejercicio ético y responsable de la profesión. Además, cuento con un **Seguro de Responsabilidad Civil Profesional** que protege a mis clientes.
 
-## Formación Académica
+## Formación académica
 
 - **2017** — **Doctorado** en Machine Learning, Bournemouth University
 - **2011** — **Máster** en Soft Computing y Sistemas Inteligentes, Universidad de Granada
 - **2009** — **Ingeniería Informática**, Universidad de Granada
 - **2007** — **Ingeniería Técnica** en Informática de Sistemas, Universidad de Granada
 
-## Premios y Reconocimientos
+## Premios y reconocimientos
 
 - Equipo ganador del Transport Hackathon en Smarter Travel LIVE! (2016)
 - Peer Prize — 7th Annual DEC PGR Poster Conference (2014)
@@ -40,6 +40,6 @@ Estoy colegiado en el [CPITIA](https://www.cpitia.org) (Colegio Profesional de I
 - Matrícula de honor en el Proyecto Fin de Máster (2011)
 - Matrícula de honor en el Proyecto Fin de Carrera (2009)
 
-## Cronología Profesional
+## Cronología profesional
 
 <img src="/images/timeline.png" alt="Cronología Profesional" class="timeline-image">

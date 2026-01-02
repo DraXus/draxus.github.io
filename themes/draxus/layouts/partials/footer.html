@@ -23,9 +23,32 @@ document.querySelector('.nav-toggle').addEventListener('click', function() {
   const menu = document.querySelector('.nav-menu');
   const expanded = this.getAttribute('aria-expanded') === 'true';
   this.setAttribute('aria-expanded', !expanded);
+  this.classList.toggle('is-open');
   menu.classList.toggle('is-open');
 });
 </script>
+
+{{ if and .IsPage (eq .Layout "about") }}
+<script>
+(function() {
+  if (window.innerWidth > 768) return;
+
+  const img = document.querySelector('.timeline-image');
+  if (!img) return;
+
+  const lightbox = document.createElement('div');
+  lightbox.className = 'timeline-lightbox';
+  lightbox.innerHTML = `
+    <button class="timeline-lightbox-close" aria-label="{{ if eq .Lang "es" }}Cerrar{{ else }}Close{{ end }}">&times;</button>
+    <img src="${img.src}" alt="${img.alt}">
+  `;
+  document.body.appendChild(lightbox);
+
+  img.addEventListener('click', () => lightbox.classList.add('open'));
+  lightbox.addEventListener('click', () => lightbox.classList.remove('open'));
+})();
+</script>
+{{ end }}
 
 {{ if and .IsPage (eq .File.TranslationBaseName "contact") }}
 <script type="text/javascript">
