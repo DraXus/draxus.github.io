@@ -86,4 +86,4 @@ Creo en relaciones transparentes y colaborativas. Así es como me gusta trabajar
 
 ## Cronología profesional
 
-<img src="/images/timeline.png" alt="Cronología Profesional" class="timeline-image">
+<img src="/images/timeline_split_es.png" alt="Cronología Profesional" class="timeline-image">
