@@ -5,6 +5,7 @@ mainClass: "container--wide"
 ---
 
 <div class="services-hero">
+  <img class="services-hero__icon" src="/images/services/service-cv-ai-consulting.png" alt="Icon for Computer Vision & AI consulting" loading="lazy" width="64" height="64">
   <h2 class="services-hero__title">Computer Vision & AI Consulting</h2>
   <p class="services-hero__description">I help companies build products with visual AI, from feasibility assessment to production deployment. Whether you're facing a specific CV/ML challenge or need architectural guidance, I bring 15+ years of research and industry experience to your project.</p>
   <div class="services-hero__details">
@@ -20,6 +21,7 @@ mainClass: "container--wide"
 <div class="services-grid">
 
 <div class="service-card">
+  <img class="service-card__icon" src="/images/services/service-research-collaboration.png" alt="Icon for research collaboration" loading="lazy" width="56" height="56">
   <h3 class="service-card__title">Research Collaboration</h3>
   <div class="service-card__meta">
     <p><strong>For:</strong> University groups, R&D departments, funded research projects</p>
@@ -30,6 +32,7 @@ mainClass: "container--wide"
 </div>
 
 <div class="service-card">
+  <img class="service-card__icon" src="/images/services/service-ml-system-design.png" alt="Icon for ML system design & evaluation" loading="lazy" width="56" height="56">
   <h3 class="service-card__title">ML System Design & Evaluation</h3>
   <div class="service-card__meta">
     <p><strong>For:</strong> Teams building or scaling ML pipelines</p>
@@ -40,6 +43,7 @@ mainClass: "container--wide"
 </div>
 
 <div class="service-card">
+  <img class="service-card__icon" src="/images/services/service-technical-advisory.png" alt="Icon for technical advisory" loading="lazy" width="56" height="56">
   <h3 class="service-card__title">Technical Advisory</h3>
   <div class="service-card__meta">
     <p><strong>For:</strong> Founders, managers, non-technical decision makers</p>

@@ -5,6 +5,7 @@ mainClass: "container--wide"
 ---
 
 <div class="services-hero">
+  <img class="services-hero__icon" src="/images/services/service-cv-ai-consulting.png" alt="Icono de consultoría en visión artificial e IA" loading="lazy" width="64" height="64">
   <h2 class="services-hero__title">Consultoría en visión artificial e IA</h2>
   <p class="services-hero__description">Ayudo a empresas a construir productos con IA visual, desde la evaluación de viabilidad hasta la puesta en producción. Ya sea un reto específico en CV/ML o necesites orientación arquitectónica, aporto más de 15 años de experiencia en investigación e industria.</p>
   <div class="services-hero__details">
@@ -20,6 +21,7 @@ mainClass: "container--wide"
 <div class="services-grid">
 
 <div class="service-card">
+  <img class="service-card__icon" src="/images/services/service-research-collaboration.png" alt="Icono de colaboración en investigación" loading="lazy" width="56" height="56">
   <h3 class="service-card__title">Colaboración en investigación</h3>
   <div class="service-card__meta">
     <p><strong>Para:</strong> Grupos universitarios, departamentos de I+D, proyectos de investigación financiados</p>
@@ -30,6 +32,7 @@ mainClass: "container--wide"
 </div>
 
 <div class="service-card">
+  <img class="service-card__icon" src="/images/services/service-ml-system-design.png" alt="Icono de diseño y evaluación de sistemas ML" loading="lazy" width="56" height="56">
   <h3 class="service-card__title">Diseño y evaluación de sistemas ML</h3>
   <div class="service-card__meta">
     <p><strong>Para:</strong> Equipos construyendo o escalando pipelines de ML</p>
@@ -40,6 +43,7 @@ mainClass: "container--wide"
 </div>
 
 <div class="service-card">
+  <img class="service-card__icon" src="/images/services/service-technical-advisory.png" alt="Icono de asesoría técnica" loading="lazy" width="56" height="56">
   <h3 class="service-card__title">Asesoría técnica</h3>
   <div class="service-card__meta">
     <p><strong>Para:</strong> Personas fundadoras, responsables y perfiles de decisión sin base técnica</p>

@@ -40,6 +40,50 @@ Estoy colegiado en el [CPITIA](https://www.cpitia.org) (Colegio Profesional de I
 - Matrícula de honor en el Proyecto Fin de Máster (2011)
 - Matrícula de honor en el Proyecto Fin de Carrera (2009)
 
+## Valores y compromisos
+
+Creo en relaciones transparentes y colaborativas. Así es como me gusta trabajar y qué espero de los clientes:
+
+<div class="landing-grid" style="margin-top: var(--spacing-lg);">
+
+<div class="landing-card">
+<h3>Colaboración</h3>
+<p><strong>Mi compromiso:</strong> Trabajo de forma proactiva y alineada con el equipo, entendiendo objetivos y proponiendo mejoras como parte del proyecto.</p>
+<p><strong>Compromiso del cliente:</strong> Tratarme como un miembro más del equipo, compartiendo información relevante, contexto y decisiones con transparencia.</p>
+</div>
+
+<div class="landing-card">
+<h3>Implicación</h3>
+<p><strong>Mi compromiso:</strong> Me involucro en el proyecto con mentalidad de producto: entiendo objetivos, impacto y prioridades.</p>
+<p><strong>Compromiso del cliente:</strong> Compartir objetivos de negocio, contexto y feedback para poder tomar buenas decisiones.</p>
+</div>
+
+<div class="landing-card">
+<h3>Sin rodeos</h3>
+<p><strong>Mi compromiso:</strong> Comunico de forma clara y temprana cuando algo no es viable, cuando hay riesgos o bloqueos, proponiendo alternativas.</p>
+<p><strong>Compromiso del cliente:</strong> Tener claridad sobre objetivos, plazos, presupuesto y recursos disponibles, y comunicarlos de forma abierta desde el inicio.</p>
+</div>
+
+<div class="landing-card">
+<h3>Simplicidad</h3>
+<p><strong>Mi compromiso:</strong> Priorizar soluciones simples, mantenibles y alineadas con el problema real, evitando complejidad innecesaria.</p>
+<p><strong>Compromiso del cliente:</strong> Valorar soluciones prácticas y sostenibles por encima de sobreingeniería o modas tecnológicas.</p>
+</div>
+
+<div class="landing-card">
+<h3>Visión global</h3>
+<p><strong>Mi compromiso:</strong> Me gusta entender el negocio, el producto y el ecosistema técnico para tomar mejores decisiones técnicas.</p>
+<p><strong>Compromiso del cliente:</strong> Facilitar acceso a información relevante sobre el negocio, usuarios y contexto técnico.</p>
+</div>
+
+<div class="landing-card">
+<h3>Formación continua</h3>
+<p><strong>Mi compromiso:</strong> Mantenerme actualizado en IA para aplicar soluciones modernas y eficientes cuando aporten valor real.</p>
+<p><strong>Compromiso del cliente:</strong> Confiar en mi criterio técnico y entender que aprender y evaluar tecnología forma parte del trabajo de calidad.</p>
+</div>
+
+</div>
+
 ## Cronología profesional
 
 <img src="/images/timeline.png" alt="Cronología Profesional" class="timeline-image">

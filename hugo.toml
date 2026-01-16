@@ -15,7 +15,7 @@ enableRobotsTXT = true
     languageCode = "es"
     languageName = "ES"
     weight = 1
-    title = "Manuel Martín Salvador - Investigador IA e Ingeniero"
+    title = "Manuel Martín Salvador - Investigador IA e Ingeniero informático"
     [languages.es.params]
       description = "Ingeniero de machine learning especializado en visión por computador. Consultoría en sistemas de IA, desde investigación hasta producción."
     [[languages.es.menus.main]]
@@ -51,7 +51,7 @@ enableRobotsTXT = true
     languageCode = "en"
     languageName = "EN"
     weight = 2
-    title = "Manuel Martín Salvador - AI Researcher & Engineer"
+    title = "Manuel Martín Salvador - AI Researcher & Software Engineer"
     [languages.en.params]
       description = "Research-driven ML engineer specializing in computer vision. Consulting for AI systems, from research to production."
     [[languages.en.menus.main]]

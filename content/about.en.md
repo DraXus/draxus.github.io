@@ -40,6 +40,50 @@ I am a member of [CPITIA](https://www.cpitia.org) (Professional Association of T
 - Distinction in Master's Final Project (2011)
 - Distinction in Degree's Final Project (2009)
 
+## Values and Commitments
+
+I believe in transparent, collaborative relationships. Here's how I approach my work and what I hope from clients:
+
+<div class="landing-grid" style="margin-top: var(--spacing-lg);">
+
+<div class="landing-card">
+<h3>Collaboration</h3>
+<p><strong>My commitment:</strong> I work proactively and aligned with the team, understanding objectives and proposing improvements as part of the project.</p>
+<p><strong>Client commitment:</strong> Treat me as a team member, sharing relevant information, context and decisions transparently.</p>
+</div>
+
+<div class="landing-card">
+<h3>Involvement</h3>
+<p><strong>My commitment:</strong> I get involved in the project with a product mindset: understanding objectives, impact and priorities.</p>
+<p><strong>Client commitment:</strong> Share business objectives, context and feedback so I can make good decisions.</p>
+</div>
+
+<div class="landing-card">
+<h3>Straight-talking</h3>
+<p><strong>My commitment:</strong> I communicate clearly and early when something isn't feasible, when there are risks or blockers, proposing alternatives.</p>
+<p><strong>Client commitment:</strong> Have clarity about objectives, deadlines, budget and available resources, and communicate them openly from the start.</p>
+</div>
+
+<div class="landing-card">
+<h3>Simplicity</h3>
+<p><strong>My commitment:</strong> Prioritise simple, maintainable solutions aligned with the real problem, avoiding unnecessary complexity.</p>
+<p><strong>Client commitment:</strong> Value practical and sustainable solutions over over-engineering or technological fads.</p>
+</div>
+
+<div class="landing-card">
+<h3>Holistic vision</h3>
+<p><strong>My commitment:</strong> I like understanding the business, the product and the technical ecosystem to make better technical decisions.</p>
+<p><strong>Client commitment:</strong> Facilitate access to relevant information about the business, users and technical context.</p>
+</div>
+
+<div class="landing-card">
+<h3>Continuous learning</h3>
+<p><strong>My commitment:</strong> Stay up-to-date on AI to apply modern and efficient solutions when they provide real value.</p>
+<p><strong>Client commitment:</strong> Trust my technical judgement and understand that learning and evaluating technology is part of quality work.</p>
+</div>
+
+</div>
+
 ## Career Timeline
 
 <img src="/images/timeline.png" alt="Career Timeline" class="timeline-image">
