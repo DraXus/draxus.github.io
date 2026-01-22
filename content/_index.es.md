@@ -85,13 +85,8 @@ mainClass: "container--wide"
 </details>
 
 <details>
-<summary>¿Trabajas por horas o por proyecto?</summary>
-<p>Ambos. Podemos empezar con una bolsa de horas para diagnóstico, o definir un proyecto con alcance y entregables claros.</p>
-</details>
-
-<details>
-<summary>¿Firmas NDA o acuerdos de confidencialidad?</summary>
-<p>Sí. He trabajado con equipos con requisitos estrictos de confidencialidad.</p>
+<summary>¿Cómo estructuras los proyectos?</summary>
+<p>Trabajo por proyecto con alcance y entregables claros. Definimos juntos los objetivos, hitos y resultados esperados antes de empezar.</p>
 </details>
 
 <details>
@@ -101,11 +96,16 @@ mainClass: "container--wide"
 
 <details>
 <summary>¿Qué herramientas utilizo?</summary>
-<p>Trabajo principalmente con Python, PyTorch y MLflow. No estoy atado a una nube concreta: puedo adaptarme al entorno en el que trabajéis (AWS, GCP, Azure u on‑premise).</p>
+<p>Trabajo principalmente con Python, PyTorch y MLflow. No estoy atado a una nube concreta: puedo adaptarme al entorno en el que trabajéis (AWS, GCP, Azure u on-premise).</p>
 </details>
 
 <details>
-<summary>¿Emito facturas?</summary>
+<summary>¿Firmas NDA o acuerdos de confidencialidad?</summary>
+<p>Sí. He trabajado con equipos con requisitos estrictos de confidencialidad.</p>
+</details>
+
+<details>
+<summary>¿Emites facturas?</summary>
 <p>Sí. Estoy dado de alta como trabajador autónomo en España y puedo emitir facturas sin problema.</p>
 </details>
 </div>
@@ -160,9 +160,6 @@ mainClass: "container--wide"
 </div>
 </div>
 
-<div class="content-narrow">
-<p>Si prefieres ver el detalle, aquí tienes la <a href="/services/">página completa de servicios</a>.</p>
-</div>
 </section>
 
 <section class="landing-section" id="cta">

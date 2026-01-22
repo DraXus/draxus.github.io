@@ -5,13 +5,24 @@ layout: "about"
 mainClass: "container--wide"
 ---
 
-## Background
-
-I hold a PhD in Machine Learning from Bournemouth University and a Master's in Soft Computing and Intelligent Systems from the University of Granada. My research focused on <i>AutoML</i>, <i>data-stream mining</i> and <i>adaptive learning</i>, always at the intersection of theory and real-world application.
-
 ## Current Work
 
-I work part-time at [Blink](https://blinkeye.com), where I develop **deep learning** systems for solving **computer vision** challenges such as face detection, monocular 3D eye estimation and hand tracking. This work demands precision at every stage: data collection, model architecture, evaluation metrics, and deployment optimization.
+I work as a **freelance consultant** and part-time at [Blink](https://blinkeye.com), where I develop **deep learning** systems for solving **computer vision** challenges such as face detection, monocular 3D eye estimation and hand tracking. This work demands precision at every stage: data collection, model architecture, evaluation metrics, and deployment optimization.
+
+<div class="work-videos">
+  <div class="work-video-item">
+    <video class="work-video" muted loop playsinline preload="metadata">
+      <source src="/videos/facial-landmark-detection.mp4" type="video/mp4">
+    </video>
+    <p class="work-video-caption">Facial landmark detection</p>
+  </div>
+  <div class="work-video-item">
+    <video class="work-video" muted loop playsinline preload="metadata">
+      <source src="/videos/hand-landmark-detection.mp4" type="video/mp4">
+    </video>
+    <p class="work-video-caption">Hand landmark detection</p>
+  </div>
+</div>
 
 ## Working Style
 
@@ -21,14 +32,44 @@ I've worked remotely for **international** teams for over 7 years. I communicate
 
 ## Professional Accreditation
 
+<img src="/images/Logo_CPITIA.jpg" alt="CPITIA" style="float: left; height: 60px; margin-right: 1.5em; margin-bottom: 1em;">
+
 I am a member of [CPITIA](https://www.cpitia.org) (Professional Association of Technical Engineers in Computer Science of Andalusia) with membership number **20250131-A**. I follow a [code of ethics](https://www.cpitia.org/wp-content/uploads/2017/03/Deontolog%C3%ADa-CPITIA.pdf) that ensures ethical and responsible professional practice. Additionally, I hold **Professional Liability Insurance** to protect my clients.
 
-## Education
 
-- **2017** — **PhD** in Machine Learning, Bournemouth University
-- **2011** — **Master** in Soft Computing and Intelligent Systems, University of Granada
-- **2009** — **MSc Computer Engineering**, University of Granada
-- **2007** — **BSc Technical Engineering** in Computer Systems, University of Granada
+## Background
+
+I hold a PhD in Machine Learning from Bournemouth University and a Master's in Soft Computing and Intelligent Systems from the University of Granada. My research focused on <i>AutoML</i>, <i>data-stream mining</i> and <i>adaptive learning</i>, always at the intersection of theory and real-world application.
+
+I'm continuously learning through courses, attending conferences, and reading books to stay current with the latest trends and advances in AI and machine learning.
+
+<div class="education-timeline">
+
+<div class="education-card">
+<div class="education-year">2017</div>
+<div class="education-degree">PhD in Machine Learning</div>
+<p class="education-institution">Bournemouth University</p>
+</div>
+
+<div class="education-card">
+<div class="education-year">2011</div>
+<div class="education-degree">Master in Soft Computing and Intelligent Systems</div>
+<p class="education-institution">University of Granada</p>
+</div>
+
+<div class="education-card">
+<div class="education-year">2009</div>
+<div class="education-degree">MSc Computer Engineering</div>
+<p class="education-institution">University of Granada</p>
+</div>
+
+<div class="education-card">
+<div class="education-year">2007</div>
+<div class="education-degree">BSc Technical Engineering in Computer Systems</div>
+<p class="education-institution">University of Granada</p>
+</div>
+
+</div>
 
 ## Awards & Recognition
 

@@ -46,6 +46,23 @@ document.querySelector('.nav-toggle').addEventListener('click', function() {
   img.addEventListener('click', () => lightbox.classList.add('open'));
   lightbox.addEventListener('click', () => lightbox.classList.remove('open'));
 })();
+
+(function() {
+  const videos = document.querySelectorAll('.work-video');
+  if (!videos.length) return;
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.play().catch(() => {});
+      } else {
+        entry.target.pause();
+      }
+    });
+  }, { threshold: 0.5 });
+
+  videos.forEach(video => observer.observe(video));
+})();
 </script>
 {{ end }}
 

@@ -81,17 +81,12 @@ mainClass: "container--wide"
 
 <details>
 <summary>What do you need to get started?</summary>
-<p>A short description of the goal, sample data (even a small subset), how to measure success, and constraints (latency, cost, privacy). If you don’t have data yet, we can define a capture/labeling plan.</p>
+<p>A short description of the goal, sample data (even a small subset), how to measure success, and constraints (latency, cost, privacy). If you don't have data yet, we can define a capture/labeling plan.</p>
 </details>
 
 <details>
-<summary>Do you work hourly or project-based?</summary>
-<p>Both. We can start with a small hourly block for discovery, or define a project with clear scope and deliverables.</p>
-</details>
-
-<details>
-<summary>Can you sign an NDA?</summary>
-<p>Yes. I’ve worked with teams with strict confidentiality requirements.</p>
+<summary>How do you structure your engagements?</summary>
+<p>I work on a project basis with clear scope and deliverables. We'll define the goals, milestones, and outcomes together before starting.</p>
 </details>
 
 <details>
@@ -101,12 +96,17 @@ mainClass: "container--wide"
 
 <details>
 <summary>What tools do you use?</summary>
-<p>I mainly work with Python, PyTorch, and MLflow for experiment tracking/monitoring. I’m not tied to a specific cloud provider, and I can adapt to your environment (AWS, GCP, Azure, or on‑prem).</p>
+<p>I mainly work with Python, PyTorch, and MLflow for experiment tracking/monitoring. I'm not tied to a specific cloud provider, and I can adapt to your environment (AWS, GCP, Azure, or on-prem).</p>
+</details>
+
+<details>
+<summary>Can you sign an NDA?</summary>
+<p>Yes. I've worked with teams with strict confidentiality requirements.</p>
 </details>
 
 <details>
 <summary>Do you issue invoices?</summary>
-<p>Yes. I’m registered as a self‑employed professional in Spain and can issue invoices.</p>
+<p>Yes. I'm registered as a self-employed professional in Spain and can issue invoices.</p>
 </details>
 </div>
 </div>
@@ -160,9 +160,6 @@ mainClass: "container--wide"
 </div>
 </div>
 
-<div class="content-narrow">
-<p>If you want the full detail, see the <a href="/en/services/">services page</a>.</p>
-</div>
 </section>
 
 <section class="landing-section" id="cta">
